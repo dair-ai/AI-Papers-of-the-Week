@@ -2147,3 +2147,5 @@ We use a combination of AI-powered tools, analytics, and human curation to build
 [Subscribe to our NLP Newsletter](https://nlpnews.substack.com/) to stay on top of ML research and trends.
 
 Join our [Discord](https://discord.gg/FzNtjEK9dg).
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. Enterprise-ready, 189 APIs, real energy data.
