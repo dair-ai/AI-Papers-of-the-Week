@@ -199,3 +199,7 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Directories
+
+- [OpenRuna](https://www.openruna.com/hubs/llm-evals) — Graph directory of LLM benchmarks, datasets, evals, and prompts with typed resource relations.
