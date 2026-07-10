@@ -199,3 +199,7 @@ Here is the weekly series:
 [Follow us on Twitter](https://twitter.com/dair_ai)
 
 [Join our Discord](https://discord.gg/SKgkVT8BGJ)
+
+## Related projects
+
+- [IntelligenceMax](https://intelligencemax.ai) — live reasoning gym with adaptive distinction items and honest scoring ([guide](https://intelligencemax.ai/guide), [science](https://intelligencemax.ai/science))
